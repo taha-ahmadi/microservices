@@ -1,5 +1,5 @@
 Lumen microservices with Passport oauth
-### instalation
+### Installation
 1. install dependencies of each microservices.  
 `composer install`
 
